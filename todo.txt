@@ -1,0 +1,4 @@
+TODO:
+- Draw circles on map
+- Get data to JSON
+- Plot data
